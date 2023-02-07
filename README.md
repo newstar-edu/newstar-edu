@@ -3,7 +3,7 @@
 </div>  
   
 
-## <div align="center">안녕하세요. 성장하는 신입 퍼블리셔 김퍼블입니다!</div>  
+## 안녕하세요. 성장하는 신입 퍼블리셔 김퍼블입니다!
   
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/rishavanand/github-profilinator)  
